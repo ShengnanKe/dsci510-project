@@ -1,0 +1,72 @@
+Index,Title,popularity,vote_average,vote_count,budget,Collection_name,ID,Certificate,Genre(s),Director(s)
+0,Jurassic World Dominion,211.28,0.0,0,165,Jurassic Park Collection,507086,PG-13,"Adventure, Action, Science Fiction, Thriller",Colin Trevorrow
+1,Avatar: The Way of Water,267.336,0.0,0,250000000,Avatar Collection,76600,Unknown,"Action, Adventure, Fantasy, Science Fiction",James Cameron
+2,Thor: Love and Thunder,143.842,0.0,0,0,Thor Collection,616037,Unknown,"Action, Adventure, Fantasy",Taika Waititi
+3,Killers of the Flower Moon,4.932,0.0,0,200000000,,466420,Unknown,"Crime, Drama, Thriller",Martin Scorsese
+4,Black Panther: Wakanda Forever,29.88,0.0,0,0,Black Panther Collection,505642,Unknown,"Action, Adventure, Science Fiction",Ryan Coogler
+5,Black Adam,27.318,0.0,0,0,,436270,Unknown,"Action, Fantasy, Adventure",Jaume Collet-Serra
+6,Halloween Ends,14.959,0.0,0,10000000,Halloween Collection,616820,Unknown,"Horror, Thriller",David Gordon Green
+7,Elvis,26.907,0.0,0,0,,614934,Unknown,"Drama, Music, History",Baz Luhrmann
+8,Don't Worry Darling,21.156,0.0,0,20000000,,619730,R,"Drama, Mystery, Thriller",Olivia Wilde
+9,Knives Out 2,4.641,0.0,0,0,Knives Out Collection,661374,Unknown,"Comedy, Crime, Drama, Mystery",Rian Johnson
+10,Uncharted,4449.169,7.2,1798,120000000,,335787,PG-13,"Action, Adventure",Ruben Fleischer
+11,Top Gun: Maverick,161.743,0.0,0,152000000,Top Gun Collection,361743,PG-13,"Action, Drama",Joseph Kosinski
+12,The Batman,4740.532,7.8,4407,185000000,The Batman Collection,414906,PG-13,"Crime, Mystery, Thriller",Matt Reeves
+13,Night Has Fallen,1.4,0.0,0,0,Has Fallen Collection,762409,Unknown,"Action, Thriller",Ric Roman Waugh
+14,The 355,290.897,6.0,435,75000000,,522016,PG-13,"Action, Thriller",Simon Kinberg
+15,Stars at Noon,7.823,0.0,0,0,,603204,Unknown,"Drama, Romance, Thriller",Claire Denis
+16,Ambulance,2670.696,7.0,517,40000000,,763285,R,"Action, Thriller, Crime",Michael Bay
+17,Deep Water,302.831,5.6,541,0,,619979,R,"Drama, Mystery, Thriller",Adrian Lyne
+18,Sonic the Hedgehog 2,12851.144,7.7,1153,110000000,Sonic the Hedgehog Collection,675353,PG,"Action, Science Fiction, Comedy, Family, Adventure",Jeff Fowler
+19,Scream,507.025,6.8,1255,24000000,Scream Collection,646385,R,"Horror, Mystery, Thriller","Matt Bettinelli-Olpin, Tyler Gillett"
+20,Doctor Strange in the Multiverse of Madness,5007.839,7.5,1163,200000000,Doctor Strange Collection,453395,PG-13,"Fantasy, Action, Adventure",Sam Raimi
+21,Hocus Pocus 2,11.906,0.0,0,0,The Hocus Pocus Collection,642885,Unknown,"Fantasy, Family, Comedy",Anne Fletcher
+22,Death on the Nile,256.853,6.5,1604,90000000,Hercule Poirot Collection,505026,PG-13,"Crime, Drama, Mystery, Thriller",Kenneth Branagh
+23,Creed III,33.242,0.0,0,0,Creed Collection,677179,Unknown,"Drama, Action",Michael B. Jordan
+24,Django/Zorro,0.6,0.0,0,0,,615464,Unknown,"Western, Action",
+25,Disappointment Blvd.,2.639,0.0,0,0,,798286,Unknown,"Comedy, Drama, Horror",Ari Aster
+26,Batgirl,3.733,0.0,0,0,,784589,Unknown,"Action, Adventure, Crime","Adil El Arbi, Bilall Fallah"
+27,Baby Driver 2,4.017,0.0,0,0,Baby Driver Collection,628861,Unknown,"Action, Crime",Edgar Wright
+28,Slumberland,2.314,0.0,0,0,,668461,PG,"Adventure, Fantasy, Family",Francis Lawrence
+29,Fantastic Beasts: The Secrets of Dumbledore,826.325,6.8,923,200000000,Fantastic Beasts Collection,338953,PG-13,"Fantasy, Adventure",David Yates
+30,Morbius,651.781,5.9,594,75000000,,526896,PG-13,"Action, Science Fiction, Fantasy",Daniel Espinosa
+31,The Unbearable Weight of Massive Talent,51.435,7.3,90,30000000,,648579,R,"Action, Comedy, Crime",Tom Gormican
+32,Moonfall,2231.435,6.5,937,146000000,,406759,PG-13,"Science Fiction, Adventure, Action",Roland Emmerich
+33,Jackass Forever,420.947,6.9,335,10000000,Jackass Collection,656663,R,"Comedy, Action, Documentary",Jeff Tremaine
+34,Extraction 2,10.324,0.0,0,0,Extraction Collection,697843,Unknown,"Action, Thriller",Sam Hargrave
+35,"Red, White and Water",3.377,0.0,0,0,,595586,Unknown,Drama,Lila Neugebauer
+36,Mob Girl,1.214,0.0,0,0,,618059,Unknown,"Drama, Crime, History",Paolo Sorrentino
+37,The Black Hand,1.464,0.0,0,0,,438425,Unknown,Drama,
+38,The Good Spy,0.6,0.0,0,0,,607905,Unknown,Drama,Baltasar Kormákur
+39,The Bob's Burgers Movie,13.322,0.0,0,0,,504827,PG-13,"Animation, Adventure, Comedy","Loren Bouchard, Bernard Derriman"
+40,Good Mourning,9.584,0.0,0,0,,865686,R,Comedy,"Machine Gun Kelly, Mod Sun"
+41,Big Gold Brick,6.502,4.9,8,0,,624798,Unknown,"Comedy, Fantasy",Brian Petsos
+42,I Want You Back,63.599,6.3,140,0,,680860,R,"Comedy, Romance",Jason Orley
+43,Enola Holmes 2,5.876,0.0,0,0,Enola Holmes Collection,829280,Unknown,"Mystery, Adventure, Drama",Harry Bradbeer
+44,Argylle,4.802,0.0,0,0,,848538,Unknown,Thriller,Matthew Vaughn
+45,Flux Gourmet,3.295,0.0,0,0,,848818,Unknown,"Drama, Comedy, Horror",Peter Strickland
+46,Choose or Die,45.532,5.3,309,0,,838484,MA-17,"Horror, Thriller, Drama",Toby Meakins
+47,Umma,74.788,6.1,67,0,,751237,PG-13,"Horror, Mystery",Iris K. Shim
+48,Bullet Train,28.623,0.0,0,0,,718930,Unknown,"Action, Thriller, Mystery",David Leitch
+49,The Northman,318.974,7.7,462,70000000,,639933,R,"Action, Adventure, Fantasy, Thriller",Robert Eggers
+50,Downton Abbey: A New Era,33.281,7.5,47,0,Downton Abbey Collection,820446,PG,"Drama, History, Romance",Simon Curtis
+51,The Adam Project,919.599,7.0,2122,116000000,,696806,PG-13,"Action, Adventure, Comedy, Science Fiction",Shawn Levy
+52,Lightyear,47.867,0.0,0,0,,718789,Unknown,"Animation, Science Fiction, Adventure, Family, Action, Comedy",Angus MacLane
+53,The Gray Man,12.215,0.0,0,200000000,,725201,Unknown,"Action, Thriller, Adventure","Anthony Russo, Joe Russo"
+54,Night at the Museum: Kahmunrah Rises Again,0.6,0.0,0,0,,751741,Unknown,"Animation, Comedy, Family, Fantasy",
+55,Poor Things,3.683,0.0,0,0,,792307,Unknown,"Romance, Comedy, Science Fiction",Yorgos Lanthimos
+56,Hotel Transylvania: Transformania,914.217,7.1,833,0,Hotel Transylvania Collection,585083,PG,"Animation, Family, Fantasy, Comedy, Adventure","Derek Drymon, Jennifer Kluska"
+57,Paws of Fury: The Legend of Hank,12.732,0.0,0,0,,366672,PG,"Family, Comedy, Animation, Action","Rob Minkoff, Mark Koetsier"
+58,Nightmare Alley,367.019,7.0,1612,60000000,,597208,R,"Drama, Comedy, Romance",Advait Chandan
+59,Cat Person,1.444,0.0,0,0,,843394,Unknown,"Crime, Drama, Thriller",Guillermo del Toro
+60,Rumble,31.773,6.9,278,0,,598331,PG,Thriller,Susanna Fogel
+61,The Retirement Plan,2.679,0.0,0,0,,866346,Unknown,"Family, Comedy, Animation",Hamish Grieve
+62,Newsflash,1.953,0.0,0,0,,492253,Unknown,"Comedy, Action",Tim Brown
+63,The Black Phone,54.509,0.0,0,0,,756999,R,"Drama, History",Alfonso Gomez-Rejon
+64,One True Loves,1.499,0.0,0,0,,846961,Unknown,"Horror, Thriller",Scott Derrickson
+65,Arthur the King,2.051,3.6,5,0,,134542,Unknown,"Romance, Comedy",Andy Fickman
+66,Blacklight,1059.436,6.2,345,43000000,,823625,PG-13,"TV Movie, Fantasy, Adventure",Clive Donner
+67,Senior Year,38.645,6.0,2,0,,800937,R,"Action, Thriller",Mark Williams
+68,Hate to See You Go,0.951,0.0,0,0,,838773,Unknown,Comedy,Alex Hardcastle
+69,Triangle of Sadness,5.017,0.0,0,15600000,,497828,Unknown,,Ben Tishler
+70,Me Time,3.89,0.0,0,0,,862551,Unknown,"Comedy, Drama",Ruben Östlund
